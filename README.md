@@ -1,8 +1,10 @@
 # BlogPHPMVC
 
-## Projet de 2nd année de DUT Informatique
+## Projet de 2nd année de DUT Informatique - PHP
 
-Blog en PHP contenant des news
+Blog de news (site d'actualité)
+
+Framework : **Bootstrap**
 
 Fonctionnalités :
 * Ajout d'article
